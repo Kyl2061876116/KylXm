@@ -1,0 +1,14 @@
+Index: app/src/main/java/com/bw/kylxm/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bw/kylxm/MainActivity.java	(date 1582114526000)
++++ app/src/main/java/com/bw/kylxm/MainActivity.java	(date 1582114679454)
+@@ -9,5 +9,6 @@
+     protected void onCreate(Bundle savedInstanceState) {
+         super.onCreate(savedInstanceState);
+         setContentView(R.layout.activity_main);
++        //这是注释
+     }
+ }
